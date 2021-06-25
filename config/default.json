@@ -1,0 +1,3 @@
+{
+    "mongoURL" : "mongodb+srv://oluwaseyi:oluwaseyi@fastify-api.xa7ru.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
